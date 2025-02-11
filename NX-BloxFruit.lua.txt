@@ -1,24 +1,3 @@
--- by 4lpaca
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--- This is not deobfuscate file lol
-
-
-
 local function getMethodLoading()
 	local GG = (getgenv and getgenv()) or _G or shared;
 	if GG.IdenG ~= nil then
@@ -1937,8 +1916,8 @@ local function getMethodLoading()
 	end;
 
 	local Windows = NothingLibrary.new({
-		Title = "Blox Fruit [Full Acess Settings]",
-		Description = "By Neuron X [Optimize Version 1.0.1]",
+		Title = "Cc",
+		Description = "Cc",
 		Keybind = Enum.KeyCode.T,
 		Logo = 'http://www.roblox.com/asset/?id=80055499055359'
 	});
